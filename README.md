@@ -3,7 +3,9 @@
 notes took from 
 MAP FILTER REDUCE SHORT ON TypeScript class of DevSuperior channel
 
-https://www.youtube.com/watch?v=ZYPQmfcZGxg
+https://www.youtube.com/watch?v=ZYPQmfcZGxg   Parte1
+
+https://www.youtube.com/watch?reload=9&v=IL9UfTcCXL4  Parte2
 
 map, filter, reduce, sort na prática com JavaScript / TypeScript
 Instalar Node e NPM
